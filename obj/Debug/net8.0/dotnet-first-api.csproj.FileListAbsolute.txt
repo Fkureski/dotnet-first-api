@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\appsettings.Development.json
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\appsettings.json
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\dotnet-first-api.exe
@@ -9,6 +10,8 @@ E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\dotnet-studies\dotnet-first-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+=======
+>>>>>>> puc
 E:\dotnet-studies\dotnet-first-api\obj\Debug\net8.0\dotnet-first-api.csproj.AssemblyReference.cache
 E:\dotnet-studies\dotnet-first-api\obj\Debug\net8.0\dotnet-first-api.GeneratedMSBuildEditorConfig.editorconfig
 E:\dotnet-studies\dotnet-first-api\obj\Debug\net8.0\dotnet-first-api.AssemblyInfoInputs.cache
