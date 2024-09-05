@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-first-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9553aa4ae405b16d451b6f854cc50244c98146ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a53d69e769f8986ce64daf32cded9e2194e5ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-first-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-first-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
