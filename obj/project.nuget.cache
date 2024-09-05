@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fEWCQBr6xV0=",
+  "dgSpecHash": "SeAoo0jKVmE=",
   "success": true,
-  "projectFilePath": "D:\\bootcamp XPInc\\dotnet-first-api\\dotnet-first-api.csproj",
+  "projectFilePath": "E:\\dotnet-studies\\dotnet-first-api\\dotnet-first-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felpi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Felpi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

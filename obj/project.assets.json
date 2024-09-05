@@ -4489,11 +4489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bootcamp XPInc\\dotnet-first-api\\dotnet-first-api.csproj",
+      "projectUniqueName": "E:\\dotnet-studies\\dotnet-first-api\\dotnet-first-api.csproj",
       "projectName": "dotnet-first-api",
-      "projectPath": "D:\\bootcamp XPInc\\dotnet-first-api\\dotnet-first-api.csproj",
+      "projectPath": "E:\\dotnet-studies\\dotnet-first-api\\dotnet-first-api.csproj",
       "packagesPath": "C:\\Users\\Felpi\\.nuget\\packages\\",
-      "outputPath": "D:\\bootcamp XPInc\\dotnet-first-api\\obj\\",
+      "outputPath": "E:\\dotnet-studies\\dotnet-first-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4559,7 +4559,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
